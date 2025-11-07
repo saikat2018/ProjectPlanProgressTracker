@@ -1,0 +1,65 @@
+{
+  "title": "Epic Plan ",
+  "settings": {
+    "projectStart": "2025-10-01",
+    "projectEnd": "2025-12-31",
+    "sprintWeeks": 2,
+    "showToday": true,
+    "dayWidth": 14,
+    "priorityColors": {
+      "High": "#ff4d4f",
+      "Medium": "#f7b955",
+      "Low": "#57c9a5"
+    },
+    "overlayColor": "#5b8cff",
+    "overlayAlpha": 0.35,
+    "completionOverlayColor": "#2cc38a",
+    "completionOverlayAlpha": 0.45,
+    "etaColor": "#ff77e1",
+    "percentTextColor": "#ffffff",
+    "showGuides": false,
+    "rowHeight": 36,
+    "linkLabelFont": true
+  },
+  "epics": [
+    {
+      "id": "yqgjq3a",
+      "key": "EP-101",
+      "summary": "Foundational platform setup",
+      "priority": "High",
+      "plannedStart": "2025-10-01",
+      "plannedEnd": "2025-11-12",
+      "actualStart": "2025-10-03",
+      "actualEnd": "",
+      "percentComplete": 35,
+      "eta": "2025-11-08",
+      "hidden": false
+    },
+    {
+      "id": "c7sg5bh",
+      "key": "EP-102",
+      "summary": "Payments integration",
+      "priority": "Medium",
+      "plannedStart": "2025-10-15",
+      "plannedEnd": "2025-12-10",
+      "actualStart": "",
+      "actualEnd": "",
+      "percentComplete": 10,
+      "eta": "2025-12-05",
+      "hidden": false
+    },
+    {
+      "id": "9nmawkc",
+      "key": "EP-103",
+      "summary": "Mobile app MVP",
+      "priority": "Low",
+      "plannedStart": "2025-10-20",
+      "plannedEnd": "2025-11-25",
+      "actualStart": "2025-10-21",
+      "actualEnd": "2025-11-20",
+      "percentComplete": 100,
+      "eta": "2025-11-18",
+      "hidden": false
+    }
+  ]
+}

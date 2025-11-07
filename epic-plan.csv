@@ -1,0 +1,4 @@
+Epic Key,Epic Summary,Priority,Planned Start,Planned End,Actual Start,Actual End,Percent Complete,ETA
+EP-101,Foundational platform setup,High,2025-10-01,2025-11-12,2025-10-03,,35,2025-11-08
+EP-102,Payments integration,Medium,2025-10-15,2025-12-10,,,10,2025-12-05
+EP-103,Mobile app MVP,Low,2025-10-20,2025-11-25,2025-10-21,2025-11-20,100,2025-11-18
